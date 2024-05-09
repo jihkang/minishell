@@ -9,7 +9,5 @@ requirement:
   readline
 
 사용법
-brew install readline
-make
-./minishell
+brew install readline; make; ./minishell
   
